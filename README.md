@@ -164,6 +164,9 @@ Usage:
 # Files:
 - The game uses external files to load data dynamically:
 
+##record.txt: 
+- saved file example
+
 ## rooms.txt:
 
 - Defines room descriptions, connections, and trap status.
