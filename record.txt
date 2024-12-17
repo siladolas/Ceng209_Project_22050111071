@@ -1,0 +1,45 @@
+PLAYER
+sila,30,10
+INVENTORY
+CURRENT_ROOM
+5
+CREATURES
+1,Goblin,30,5,Old Shield
+2,Dark Alchemist,40,6,Poisoned Apple
+3,Treasure Guardian,70,10,Golden Elixir
+4,Fire Mage,80,14,Fire Scroll
+5,Cursed Spirit,110,18,Broken Amulet
+6,Demon Beast,200,20,Demon's Fang
+7,Crystal Golem,160,22,Luminous Gem
+8,Frozen Horror,110,15,Frozen Heart
+9,Thunder Guardian,130,20,Thunder Stone
+10,Ancient Warrior,200,25,Warrior's Helm
+ITEMS
+-1,,
+1,HealthPotion,Restore 20 Health
+1,Rusty Sword,Increase Strength by 5
+1,Old Shield,Increase Defense by 3
+2,ManaPotion,Restore 15 Mana
+2,Bandage,Restore 10 Health
+2,Poisoned Apple,Decrease Health by 10
+3,Golden Elixir,Restore 50 Health
+3,Enchanted Dagger,Increase Strength by 8
+3,Cursed Pendant,Decrease Strength by 4
+4,Fire Scroll,Increase Strength by 10
+4,Ice Amulet,Reduce Damage Taken by 5
+4,Explosive Potion,Decrease Health by 30
+5,Golden Crown,No Effect
+-1,Dragon Scale,Increase Defense by 20
+5,Broken Amulet,No Effect
+6,Phantom Cloak,Increase Evasion by 10
+6,Demon's Fang,Decrease Health by 20
+6,Spirit Orb,Restore 30 Mana
+7,Dark Blade,Decrease Defense by 10
+7,Luminous Gem,Increase Strength by 20
+7,Elixir of Might,Restore 30 Health
+8,Venom Flask,Decrease Health by 40
+8,Frozen Heart,Freeze Enemy for 1 Turn
+9,Thunder Stone,Increase Strength by 20
+9,Arcane Crystal,Increase Mana by 25
+10,Healing Herb,Restore 15 Health
+10,Warrior's Helm,Increase Defense by 15
