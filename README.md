@@ -164,7 +164,7 @@ Usage:
 # Files:
 - The game uses external files to load data dynamically:
 
-##record.txt: 
+## record.txt: 
 - saved file example
 
 ## rooms.txt:
