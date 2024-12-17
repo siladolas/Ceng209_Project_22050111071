@@ -15,7 +15,6 @@ CREATURES
 9,Thunder Guardian,130,20,Thunder Stone
 10,Ancient Warrior,200,25,Warrior's Helm
 ITEMS
--1,,
 1,HealthPotion,Restore 20 Health
 1,Rusty Sword,Increase Strength by 5
 1,Old Shield,Increase Defense by 3
