@@ -51,7 +51,7 @@ void attack_creature(Player *player, Creature *creature) {
 
     if (creature->health <= 0) {
         printf("You have defeated the %s!\n", creature->name);
-        return;
+        exit(1);
     }
 
     player->health -= ((creature->attack) - (player->defense)*(creature->attack)*0.01) ;
