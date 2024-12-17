@@ -1,20 +1,10 @@
 1,Goblin,30,5,Old Shield
-1,Goblin Warrior,50,8,Rusty Sword
 2,Dark Alchemist,40,6,Poisoned Apple
-2,Bandage Thief,35,4,Bandage
 3,Treasure Guardian,70,10,Golden Elixir
-3,Shadow Assassin,90,12,Enchanted Dagger
 4,Fire Mage,80,14,Fire Scroll
-4,Frost Guardian,100,16,Ice Amulet
-5,Ancient Dragon,300,25,Dragon Scale
 5,Cursed Spirit,150,18,Broken Amulet
-6,Phantom Shade,120,10,Phantom Cloak
 6,Demon Beast,200,20,Demon's Fang
-7,Nightmare Wraith,140,15,Dark Blade
 7,Crystal Golem,160,22,Luminous Gem
-8,Venomous Serpent,100,18,Venom Flask
 8,Frozen Horror,110,15,Frozen Heart
 9,Thunder Guardian,130,20,Thunder Stone
-9,Arcane Sentinel,150,18,Arcane Crystal
-10,Forest Spirit,90,12,Healing Herb
 10,Ancient Warrior,200,25,Warrior's Helm
