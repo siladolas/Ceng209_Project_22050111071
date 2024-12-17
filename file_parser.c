@@ -42,16 +42,6 @@ void load_rooms(const char *filename, Room **rooms, int *room_count) {
         rooms[i]->left = (left_connections[i] > 0) ? rooms[left_connections[i] - 1] : NULL;
         rooms[i]->right = (right_connections[i] > 0) ? rooms[right_connections[i] - 1] : NULL;
     }
-
-    for (int i = 0; i < *room_count; i++) {
-        printf("Room %d connections: Up=%p Down=%p Left=%p Right=%p\n",
-               rooms[i]->id,
-               (void *)rooms[i]->up,
-               (void *)rooms[i]->down,
-               (void *)rooms[i]->left,
-               (void *)rooms[i]->right);
-
-    }
 }
 
 
